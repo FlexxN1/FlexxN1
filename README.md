@@ -1,7 +1,5 @@
 <h1 align="center"><img src="./images/FlexxIcon.png" align="center"  width="100" height="100"><b>Juan David Moreno</b></h1>
-
 <h3 align="center">Hi there! <img src="./images/Hi.gif" width="30" height="30"></h3>
-<br>
 <div align="center">
   I'm from Colombia and I currently in Cali. I'm currently taking FrontEnd Developer courses at Platzi, passionate about technology and computing.
   <br>
