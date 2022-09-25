@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
-<br>
 
 <!-- SOFTWARES IDES -->
 <h1 align="center">Softwares, IDE's, OS's</h1>
