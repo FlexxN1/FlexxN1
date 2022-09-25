@@ -5,7 +5,6 @@
   <br>
   here you can see my certifications profile in <a href="https://platzi.com/p/Flexx/">@Platzi</a>, Never stop learning!.
 </div>
-<br>
 
 <!-- SKILL -->
 <h1 align="center">Skills</h1>
@@ -31,7 +30,6 @@
     <img src="https://img.shields.io/badge/-Atom-10c345?style=for-the-badge&logo=atom&logoColor=white">
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
-<br>
 
 <!-- LENGUAGES -->
 <h1 align="center">Languages</h1>
@@ -39,7 +37,6 @@
   <img src="https://img.shields.io/badge/-Spanish (Native)-blue?style=for-the-badge&logo=language&logoColor=white"> 
   <img src="https://img.shields.io/badge/-English (A2)-red?style=for-the-badge&logo=language&logoColor=white">
 </div>
-<br>
 
 <!-- CONTACME -->
 <h1 align="center">Contact me</h1>
