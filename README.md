@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 <br>
-<br>
-
 <h1 align="center">Softwares, IDE's, OS's</h1>
 <div align="center">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
@@ -33,15 +31,12 @@
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 <br>
-<br>
 <h1 align="center">Languages</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/-Spanish (Native)-blue?style=for-the-badge&logo=language&logoColor=white"> 
   <img src="https://img.shields.io/badge/-English (A2)-red?style=for-the-badge&logo=language&logoColor=white">
 </div>
 <br>
-<br>
-
 <h2 align="center">Contact me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-david-moreno-rodriguez/">
