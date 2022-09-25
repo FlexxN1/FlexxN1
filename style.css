@@ -1,16 +1,2 @@
-.container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-}
-.skills, .skills h1, 
-.softwares, .softwares h1 {
-   text-align: center;
-}
-.contacme {
-    margin-top: 81px;
-}
-.lenguages{
-    margin-top: 150px;
-}
+
 

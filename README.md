@@ -5,10 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <style>
-
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.skills, .skills h1, 
+.softwares, .softwares h1 {
+   text-align: center;
+}
+.contacme {
+    margin-top: 81px;
+}
+.lenguages{
+    margin-top: 150px;
+}
 </style>
 <body>    
 <h1 align="center"><img src="./images/FlexxIcon.png" align="center"  width="100" height="100"><b>Juan David Moreno</b></h1>
