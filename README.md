@@ -1,4 +1,16 @@
-<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+
+</style>
+<body>    
 <h1 align="center"><img src="./images/FlexxIcon.png" align="center"  width="100" height="100"><b>Juan David Moreno</b></h1>
 <h3 align="center">Hi there! <img src="./images/Hi.gif" width="30" height="30"></h3>
 <div align="center">
@@ -49,6 +61,8 @@
     <img src="https://img.shields.io/badge/-English (A2)-red?style=for-the-badge&logo=language&logoColor=white">
   </div>
 </div>
+</body>
+</html>
 <!--
 **FlexxN1/FlexxN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
