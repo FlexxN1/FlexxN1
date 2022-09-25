@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <!-- CONTACT ME -->
-    <h1 class="contacme">Contact me</h1>
+    <h3 class="contacme">Contact me</h3>
     <a href="https://www.linkedin.com/in/juan-david-moreno-rodriguez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="150">
     </a> 
@@ -51,12 +51,12 @@
   </div>
   <!-- COLUMN 2 -->
   <div class="softwares">
-    <h1>Softwares, IDE's, OS's</h1>
+    <h2>Softwares, IDE's, OS's</h2>
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
     <img src="https://img.shields.io/badge/-Atom-10c345?style=for-the-badge&logo=atom&logoColor=white">
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
     <!-- LENGUAGES -->
-    <h1 class="lenguages" >Languages</h1>
+    <h4 class="lenguages" >Languages</h4>
     <img src="https://img.shields.io/badge/-Spanish (Native)-blue?style=for-the-badge&logo=language&logoColor=white"> 
     <img src="https://img.shields.io/badge/-English (A2)-red?style=for-the-badge&logo=language&logoColor=white">
   </div>
