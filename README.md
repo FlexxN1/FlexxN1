@@ -54,6 +54,9 @@
   <a href="mailto:juandavidx40@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-%23cc5555.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="40" width="150">
   </a>
+  <a href="https://www.youtube.com/c/2FAgario%E5%BD%A1/featured">
+    <img src="https://img.shields.io/badge/YOUTUBE-%23cc5555.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="40" width="150">
+  </a>
 </div>
 <!--
 **FlexxN1/FlexxN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
