@@ -7,7 +7,7 @@
 </div>
 
 <!-- SKILL -->
-<h1 align="center">Skills</h1>
+<h1 align="center"> 🛠 Skills</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-BEM-10c345?style=for-the-badge&logo=bem&logoColor=black">
@@ -24,7 +24,7 @@
 </div>
 
 <!-- SOFTWARES IDES -->
-<h1 align="center">Softwares, IDE's, OS's</h1>
+<h1 align="center"> 👨🏻‍💻 Softwares, IDE's, OS's</h1>
 <div align="center">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
     <img src="https://img.shields.io/badge/-Atom-10c345?style=for-the-badge&logo=atom&logoColor=white">
@@ -33,14 +33,14 @@
 </div>
 
 <!-- LENGUAGES -->
-<h1 align="center">Languages</h1>
+<h1 align="center"> 👅 Languages</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/-Spanish (Native)-blue?style=for-the-badge&logo=language&logoColor=white"> 
   <img src="https://img.shields.io/badge/-English (A2)-red?style=for-the-badge&logo=language&logoColor=white">
 </div>
 
 <!-- CONTACME -->
-<h1 align="center">Contact me</h1>
+<h1 align="center"> 📩 Contact me</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/flexx-n1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="150">
