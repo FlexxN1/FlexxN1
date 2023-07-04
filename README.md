@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/flexx-n1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="150">
   </a> 
-  <a href="">
+  <a href="https://flexxn1.github.io/Flexx-CV/">
     <img src="https://img.shields.io/badge/CV WEB-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white" height="40" width="150">
   </a>
   <a href="https://platzi.com/p/Flexx/">
